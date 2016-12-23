@@ -1,0 +1,8 @@
+{
+    "id": "org.authiq.sickrage-homey",
+    "name": {
+        "en": "SickRage"
+    },
+    "version": "0.0.1",
+    "compatibility": "1.x"
+}
